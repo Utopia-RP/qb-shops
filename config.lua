@@ -283,7 +283,7 @@ Config.Products = {
             slot = 3,
         },
         [4] = {
-            name = "empty_weed_bag",
+            name = "empty_bag",
             price = 2,
             amount = 1000,
             info = {},
